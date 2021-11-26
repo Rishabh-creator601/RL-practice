@@ -1,0 +1,2 @@
+model_checkpoint_path: "DDPG_PENDULUM_KERASRL_critic.h5f"
+all_model_checkpoint_paths: "DDPG_PENDULUM_KERASRL_critic.h5f"
