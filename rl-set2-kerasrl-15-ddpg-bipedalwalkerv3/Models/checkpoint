@@ -1,0 +1,2 @@
+model_checkpoint_path: "DDPG_KERASRL_BIPEDALWALKERV3_critic.hf5"
+all_model_checkpoint_paths: "DDPG_KERASRL_BIPEDALWALKERV3_critic.hf5"
